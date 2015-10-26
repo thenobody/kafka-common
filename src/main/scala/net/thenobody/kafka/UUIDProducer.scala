@@ -1,9 +1,9 @@
-package com.rightster.data.kafka
+package net.thenobody.kafka
 
 import java.util
 import java.util.UUID
 
-import com.rightster.data.kafka.MyJsonProtocol._
+import MyJsonProtocol._
 import org.apache.kafka.common.serialization.Serializer
 import org.slf4j.LoggerFactory
 import spray.json._

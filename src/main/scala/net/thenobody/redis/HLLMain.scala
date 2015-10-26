@@ -1,4 +1,4 @@
-package com.rightster.data.redis
+package net.thenobody.redis
 
 import java.util.UUID
 

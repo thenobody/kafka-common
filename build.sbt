@@ -1,4 +1,4 @@
-name := "kafka-uuid-test"
+name := "kafka-common"
 
 version := "1.0"
 

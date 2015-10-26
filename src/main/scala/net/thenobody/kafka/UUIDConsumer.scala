@@ -1,4 +1,4 @@
-package com.rightster.data.kafka
+package net.thenobody.kafka
 
 import java.util.concurrent.Executors
 import java.util.{Properties, UUID}

@@ -1,4 +1,4 @@
-package com.rightster.data.kafka
+package net.thenobody.kafka
 
 import java.util.Properties
 
